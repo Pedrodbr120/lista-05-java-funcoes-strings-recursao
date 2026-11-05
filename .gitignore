@@ -1,0 +1,7 @@
+*.class
+out/
+target/
+.idea/workspace.xml
+.idea/shelf/
+.idea/httpRequests/
+*.zip
